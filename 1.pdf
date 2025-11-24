@@ -16,6 +16,6 @@
   </style>
 </head>
 <body>
-  <iframe src=".pdf"></iframe>
+  <iframe src="2.pdf"></iframe>
 </body>
 </html>
