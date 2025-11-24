@@ -2,11 +2,11 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>关于大学申请</title>
+  <title>PDF</title>
   <style>
     html, body {
-      height: 100%;
       margin: 0;
+      height: 100%;
     }
     iframe {
       width: 100%;
@@ -19,3 +19,4 @@
   <iframe src="2.pdf"></iframe>
 </body>
 </html>
+
